@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "aaad19999215a855",
+    "type": "split",
+    "children": [
+      {
+        "id": "c57e8b9f1a1d3123",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3496fcef366bc8b6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "databases/DBMS_Components.png"
+              }
+            }
+          },
+          {
+            "id": "774503d2c6e59c16",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "5469bf60ec9e052f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "networks/assignments/2/CS4390 - Assignment 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de0a68771c6749cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e9137265024e8e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985565c60d73626b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f01786bcc534d50a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3eb42adbd7bc1d49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3274b94a96b9b493",
+    "type": "split",
+    "children": [
+      {
+        "id": "656caef808f76391",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19856d3c49037c14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "databases/DBMS_Components.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8ab51fa7a3c1038",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "databases/DBMS_Components.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "449081e1401add68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3ad585103569d8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "databases/DBMS_Components.png"
+              }
+            }
+          },
+          {
+            "id": "632b0d9841912516",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "351b029d460033e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "938e2a5b2c19b361",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "3496fcef366bc8b6",
+  "lastOpenFiles": [
+    "is your exam right after this class□.md",
+    "Untitled.md",
+    "databases/Review - TEST 2023-09-20.md",
+    "databases/DBMS_Components.png",
+    "databases/DB Tasks.md",
+    "databases/assignments/1/Assignment 1.md",
+    "databases/assignments/1/Assignment 1 - Draft.md",
+    "databases/notes/2023-09-25.md",
+    "artificial-intelligence/notes/2023-09-28.md",
+    "artificial-intelligence/Darwin's notes/9-14.md",
+    "artificial-intelligence/notes/2023-09-19.md",
+    "artificial-intelligence/Darwin's notes/9-26.md",
+    "artificial-intelligence/Darwin's notes/9-19.md",
+    "artificial-intelligence/Darwin's notes/9-21.md",
+    "artificial-intelligence/Darwin's notes",
+    "artificial-intelligence/AI Tasks.md",
+    "networks/assignments/3/CS4390 - Assignment 3.md",
+    "networks/assignments/3/CS4390 - Assignment 3 - Unanswered.md",
+    "networks/assignments/2/CS4390 - Assignment 2.md",
+    "networks/notes/2023-09-27.md",
+    "networks/assignments/3",
+    "networks/assignments/Untitled.md",
+    "networks/assignments/Untitled 1.md",
+    "i am so angry at you github you keep fucking up my gorgeous markdown.md",
+    "databases/assignments/2/Assignment 2.md",
+    "networks/assignments/1/Assignment 1.md",
+    "databases/participations/overview (2023-09-27).md",
+    "databases/assignments/2/Assignment 2 - Unanswered.md",
+    "networks/notes/2023-09-25.md",
+    "databases/assignments/2",
+    "networks/assignments/2",
+    "networks/notes",
+    "databases/participations",
+    "databases/notes",
+    "networks/assignments/1",
+    "networks/assignments",
+    "databases/assignments/1/Figure_2-1.png",
+    "databases/assignments/1/Figure_1-2.png",
+    "artificial-intelligence/notes",
+    "Figure_2-1.png",
+    "Figure_1-2.png",
+    "Figure_1-1.png",
+    "Untitled.canvas"
+  ]
+}

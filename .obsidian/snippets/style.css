@@ -1,0 +1,25 @@
+/* @settings
+
+name: Custom Font and Bold Settings
+id: custom-font-bold-settings
+settings:
+    - 
+        id: default-font
+        title: Base Font
+        description: Font used for the editor text
+        type: variable-text
+        default: 'JetBrains Mono', monospace
+    - 
+        id: font-monospace
+        title: Monospace Font
+        description: Used for codeblocks, tables, etc.
+        type: variable-text
+        default: 'JetBrains Mono', monospace
+    - 
+        id: text-normal
+        title: Text Normal
+        description: Font weight for bolded markdown elements
+        type: variable-text
+        default: 'JetBrains Mono', monospace
+
+*/
